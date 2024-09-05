@@ -12,7 +12,7 @@ Building a Sustainable Future With Carbon Emissions Trading
 ## Project Overview
 ### Background
 - Exploring social variables and factors that influence carbon emission price forecasts
-- 해당 변수들로 예측을 했을 때 예측 성능이 향상될까?
+- Will forecasting with these variables improve forecast performance?
 
 ### Key Methodologies
 - Selecting menaingful exogeneous variables using ARIMAX model
